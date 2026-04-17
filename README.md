@@ -112,7 +112,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer kamu:
    ```Bash
    php artisan serve
    Buka http://127.0.0.1:8000 di browser kamu.
-  ```
+   ```
 👤 Author
 Nama: Thomas
 
