@@ -65,3 +65,28 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Tugas_Web2_CrudLaravel
+# 🛒 Tugas Web 2 - CRUD Laravel Produk
+
+Project ini adalah aplikasi manajemen produk sederhana (Create, Read, Update, Delete) yang dibangun menggunakan **Laravel 11**. Tugas ini dikerjakan untuk memenuhi mata kuliah Web Programming 2.
+
+## 🚀 Fitur Utama
+* **Menampilkan Data:** Daftar produk dengan paginasi.
+* **Tambah Data:** Input produk baru (Nama, Kode, Harga, Stok).
+* **Edit Data:** Memperbarui informasi produk yang sudah ada.
+* **Hapus Data:** Menghapus produk dari database.
+* **Validasi:** Form input sudah dilengkapi validasi (contoh: Kode produk harus unik).
+
+## 🛠️ Teknologi yang Digunakan
+* **Framework:** [Laravel 11](https://laravel.com/)
+* **Bahasa:** PHP 8.2+
+* **Database:** MySQL
+* **Styling:** Bootstrap (atau sebutkan jika pakai Tailwind)
+
+## 💻 Cara Menjalankan Project di Lokal
+
+Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer kamu:
+
+1. **Clone Repository**
+   ```bash
+   git clone [https://github.com/Thomas41012/Tugas_Web2_CrudLaravel.git](https://github.com/Thomas41012/Tugas_Web2_CrudLaravel.git)
+   cd Tugas_Web2_CrudLaravel
