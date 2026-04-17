@@ -91,9 +91,9 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer kamu:
    git clone [https://github.com/Thomas41012/Tugas_Web2_CrudLaravel.git](https://github.com/Thomas41012/Tugas_Web2_CrudLaravel.git)
    cd Tugas_Web2_CrudLaravel
 2. **Instal Dependency**
-```Bash
+   ```Bash
    composer install
-```
+   ```
 3. **Konfigurasi Environment**
    Salin file .env.example menjadi .env dan atur koneksi database kamu.
    ```Bash
@@ -133,5 +133,6 @@ Setelah file `README.md` dibuat dan di-save, jangan lupa kirim lagi ke GitHub le
 # KESIMPULAN
 Laravel 12 menawarkan berbagai peningkatan yang memudahkan pengembangan aplikasi web yang kuat dan skalabel. Dengan mamahami konsep dasar CRUD, Anda telah membangun fondasi yang kokoh untuk mengembangkan aplikasi yang lebih kompleks dimasa depan
 
-Selamat Berkarya! <img width="480" height="480" alt="GraduationCapThumbsUpGIF" src="https://github.com/user-attachments/assets/792b1032-6369-4c72-bc34-5859e0df11f1" />
+<img width="480" height="480" alt="GraduationCapThumbsUpGIF" src="https://github.com/user-attachments/assets/792b1032-6369-4c72-bc34-5859e0df11f1" />
 
+Selamat Berkarya!
