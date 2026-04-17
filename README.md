@@ -90,3 +90,48 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer kamu:
    ```bash
    git clone [https://github.com/Thomas41012/Tugas_Web2_CrudLaravel.git](https://github.com/Thomas41012/Tugas_Web2_CrudLaravel.git)
    cd Tugas_Web2_CrudLaravel
+2. **Instal Dependency**
+```Bash
+   composer install
+```
+3. **Konfigurasi Environment**
+   Salin file .env.example menjadi .env dan atur koneksi database kamu.
+   ```Bash
+   cp .env.example .env
+   ```
+4. **Generate App Key**
+   ```Bash
+   php artisan key:generate
+   ```
+5. **Migrasi Database**
+   Pastikan database sudah dibuat di MySQL, lalu jalankan:
+   ```Bash
+   php artisan migrate
+   ```
+6.  **Jalankan Server**
+   ```Bash
+   php artisan serve
+   Buka http://127.0.0.1:8000 di browser kamu.
+  ```
+👤 Author
+Nama: Thomas
+
+GitHub: @Thomas41012
+
+Tugas ini dibuat untuk keperluan pembelajaran akademik.
+
+```
+---
+
+### Cara Update ke GitHub:
+Setelah file `README.md` dibuat dan di-save, jangan lupa kirim lagi ke GitHub lewat VS Code:
+1.  Buka tab **Source Control** (Ctrl+Shift+G).
+2.  Klik **+** pada file `README.md`.
+3.  Tulis pesan commit: `Tambah file README`.
+4.  Klik **Commit**, lalu klik **Sync Changes**.
+```
+# KESIMPULAN
+Laravel 12 menawarkan berbagai peningkatan yang memudahkan pengembangan aplikasi web yang kuat dan skalabel. Dengan mamahami konsep dasar CRUD, Anda telah membangun fondasi yang kokoh untuk mengembangkan aplikasi yang lebih kompleks dimasa depan
+
+Selamat Berkarya! <img width="480" height="480" alt="GraduationCapThumbsUpGIF" src="https://github.com/user-attachments/assets/792b1032-6369-4c72-bc34-5859e0df11f1" />
+
