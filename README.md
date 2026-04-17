@@ -77,7 +77,7 @@ Project ini adalah aplikasi manajemen produk sederhana (Create, Read, Update, De
 * **Validasi:** Form input sudah dilengkapi validasi (contoh: Kode produk harus unik).
 
 ## 🛠️ Teknologi yang Digunakan
-* **Framework:** [Laravel 11](https://laravel.com/)
+* **Framework:** [Laravel 12](https://laravel.com/)
 * **Bahasa:** PHP 8.2+
 * **Database:** MySQL
 * **Styling:** Bootstrap (atau sebutkan jika pakai Tailwind)
