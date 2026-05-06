@@ -133,6 +133,4 @@ Setelah file `README.md` dibuat dan di-save, jangan lupa kirim lagi ke GitHub le
 # KESIMPULAN
 Laravel 12 menawarkan berbagai peningkatan yang memudahkan pengembangan aplikasi web yang kuat dan skalabel. Dengan mamahami konsep dasar CRUD, Anda telah membangun fondasi yang kokoh untuk mengembangkan aplikasi yang lebih kompleks dimasa depan
 
-<img width="480" height="480" alt="GraduationCapThumbsUpGIF" src="https://github.com/user-attachments/assets/792b1032-6369-4c72-bc34-5859e0df11f1" />
-
 Selamat Berkarya!
